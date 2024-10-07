@@ -49,15 +49,3 @@ This repository contains Python implementations of various data structures and a
 ## Requirements
 
 - **Python 3.x** is required to run the code in this repository.
-
-## Contributing
-
-Feel free to contribute to this repository by:
-
-- Adding new coding solutions.
-- Optimizing existing implementations.
-- Reporting issues and suggesting improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
